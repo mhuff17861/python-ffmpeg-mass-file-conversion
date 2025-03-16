@@ -22,10 +22,6 @@ If you do not want to go through the hassle of compiling ffmpeg yourself, the ub
 
 You can probably find a short one from [freesound.org](https://freesound.org)
 
-## Get script file
-
-Place the following code in `whatever-name-you-want.py`
-
 ## Run it
 
 `python ./ffmpeg-convert-all.py filename.ext`
