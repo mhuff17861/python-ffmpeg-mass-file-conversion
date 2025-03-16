@@ -28,4 +28,4 @@ Place the following code in `whatever-name-you-want.py`
 
 ## Run it
 
-`./ffmpeg-convert-all.py filename.ext`
+`python ./ffmpeg-convert-all.py filename.ext`
