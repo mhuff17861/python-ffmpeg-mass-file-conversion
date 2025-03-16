@@ -20,7 +20,7 @@ If you do not want to go through the hassle of compiling ffmpeg yourself, the ub
 
 ## Download a test audio file
 
-You can probably find a short one from [freesound.org](https:freesound.org)
+You can probably find a short one from [freesound.org](https://freesound.org)
 
 ## Get script file
 
